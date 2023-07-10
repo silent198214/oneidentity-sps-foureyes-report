@@ -19,8 +19,8 @@ CSV 預設欄位有 `StartTime, UserName, FourEyesAuthorizer, FourEyesDescriptio
 |sps_user|user account|
 |sps_pass|user password|
 |sps_filter|search query, Ex. `client.name: x.x.x.x AND user.name:*`|
-|sps_startdate|start date by report time range|
-|sps_enddate|end date by report time range|
+|sps_startdate|start date by report time range, Ex. `2023-01-01`|
+|sps_enddate|end date by report time range, Ex. `2023-01-31`|
 
 ## How to Use
 
